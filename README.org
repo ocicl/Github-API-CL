@@ -1,10 +1,9 @@
 * Github-API-CL
 
-Common Lisp Github REST API Client 
+Common Lisp Github REST API Client
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ccqpein/Github-API-CL.git   |
-| commit  | 3d05720  |
-| systems | Github-API-CL |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/ccqpein/Github-API-CL.git |
+| commit  | 3d05720                                          |
+| systems | github-api-cl                                    |
+|---------+--------------------------------------------------|
