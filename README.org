@@ -4,6 +4,6 @@ Common Lisp Github REST API Client
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/ccqpein/Github-API-CL.git |
-| commit  | d56093c                                          |
+| commit  | fd4b24d                                          |
 | systems | github-api-cl                                    |
 |---------+--------------------------------------------------|
